@@ -1,0 +1,8 @@
+[project]
+  ignore = .git
+
+[cxx]
+  cxxflags = -std=c++14 -g
+
+[cxx#debug]
+  cxxflags = -std=c++14 -g
